@@ -37,9 +37,9 @@ h1 > span{
   font-size: 3em;
 }
 
-.cards > .hidden h3 {
+/*.cards > .hidden h3 {
   display: none;
-}
+}*/
 .cards > .hidden  {
   background-image: url(img/bg.png);
   background-repeat: no-repeat;
@@ -59,4 +59,5 @@ h1 > span{
 .options > button{
   font-size: 1.5em;
 }
+
 
